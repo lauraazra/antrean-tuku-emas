@@ -3,4 +3,5 @@ Flask-SocketIO
 pandas
 openpyxl
 gunicorn
-eventlet
+gevent
+gevent-websocket
